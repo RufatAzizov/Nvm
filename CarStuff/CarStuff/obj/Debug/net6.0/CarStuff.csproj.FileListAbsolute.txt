@@ -1,0 +1,14 @@
+C:\Users\Rufat\source\repos\CarStuff\CarStuff\bin\Debug\net6.0\CarStuff.exe
+C:\Users\Rufat\source\repos\CarStuff\CarStuff\bin\Debug\net6.0\CarStuff.deps.json
+C:\Users\Rufat\source\repos\CarStuff\CarStuff\bin\Debug\net6.0\CarStuff.runtimeconfig.json
+C:\Users\Rufat\source\repos\CarStuff\CarStuff\bin\Debug\net6.0\CarStuff.dll
+C:\Users\Rufat\source\repos\CarStuff\CarStuff\bin\Debug\net6.0\CarStuff.pdb
+C:\Users\Rufat\source\repos\CarStuff\CarStuff\obj\Debug\net6.0\CarStuff.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rufat\source\repos\CarStuff\CarStuff\obj\Debug\net6.0\CarStuff.AssemblyInfoInputs.cache
+C:\Users\Rufat\source\repos\CarStuff\CarStuff\obj\Debug\net6.0\CarStuff.AssemblyInfo.cs
+C:\Users\Rufat\source\repos\CarStuff\CarStuff\obj\Debug\net6.0\CarStuff.csproj.CoreCompileInputs.cache
+C:\Users\Rufat\source\repos\CarStuff\CarStuff\obj\Debug\net6.0\CarStuff.dll
+C:\Users\Rufat\source\repos\CarStuff\CarStuff\obj\Debug\net6.0\refint\CarStuff.dll
+C:\Users\Rufat\source\repos\CarStuff\CarStuff\obj\Debug\net6.0\CarStuff.pdb
+C:\Users\Rufat\source\repos\CarStuff\CarStuff\obj\Debug\net6.0\CarStuff.genruntimeconfig.cache
+C:\Users\Rufat\source\repos\CarStuff\CarStuff\obj\Debug\net6.0\ref\CarStuff.dll
